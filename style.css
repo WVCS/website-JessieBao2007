@@ -1,3 +1,11 @@
-body {
+h1{
+  color: #8093F1;
+  font-family: "Courier New", monospace;
+  font-size: 100px;
+  letter-spacing: 10px;
+  text-shadow:5px 5px #B388EB;
+}
 
+body{
+  background-color: #F7AEF8;
 }
