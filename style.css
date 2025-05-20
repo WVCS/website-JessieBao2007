@@ -7,13 +7,17 @@ h1{
   text-shadow:5px 5px #B388EB;
 }
 
-h3{
-  color: #72DDF7;
-  font-size:50px;
-  text-shadow: 3px 3px black;
-  
-}
 
 body{
   background-color: #F7AEF8;
+}
+
+img{
+  width: 200px;
+  height:300px;
+  transition: width 0.5s ;
+}
+
+img:hover{
+  width: 800px;
 }
