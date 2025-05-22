@@ -20,3 +20,27 @@ img{
 img:hover{
   width: 800px;
 }
+
+
+nav{
+  list-style-type: none;
+  width: 100%;
+  background-color:#FDCBD4;
+  position: fixed;
+  top:0;
+  left:0;
+}
+
+li a{
+  color:#675BB5;
+  text-decoration:none;
+  float:left;
+  padding:15px;
+  text-align: center;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+li a:hover{
+  background-color:white;
+  color:#FB517E;
+}
